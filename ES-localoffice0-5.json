@@ -1,4 +1,4 @@
-// 20241010145227
+// 20241010150628
 // https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-32-mun.json
 
 {
@@ -3811,9 +3811,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "5",
+        "id": "3200607",
         "name": "Aracruz",
-        "description": "Aracruz"
+        "description": "5"
       },
       "geometry": {
         "type": "Polygon",
@@ -7839,9 +7839,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1",
+        "id": "3201308",
         "name": "Cariacica",
-        "description": "Cariacica"
+        "description": "1"
       },
       "geometry": {
         "type": "Polygon",
@@ -31126,9 +31126,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "2",
+        "id": "3205002",
         "name": "Serra",
-        "description": "Serra"
+        "description": "2"
       },
       "geometry": {
         "type": "Polygon",
@@ -32698,9 +32698,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "4",
+        "id": "3205101",
         "name": "Viana",
-        "description": "Viana"
+        "description": "4"
       },
       "geometry": {
         "type": "Polygon",
@@ -33715,9 +33715,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "3",
+        "id": "3205200",
         "name": "Vila Velha",
-        "description": "Vila Velha"
+        "description": "3"
       },
       "geometry": {
         "type": "Polygon",
@@ -34210,9 +34210,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "0",
+        "id": "3205309",
         "name": "Vitória",
-        "description": "Vitória"
+        "description": "0"
       },
       "geometry": {
         "type": "Polygon",
